@@ -1,5 +1,5 @@
-<!-- 
-  <<< Author notes: Header of the course >>> 
+<!--
+  <<< Author notes: Header of the course >>>
   Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
   In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
   Add your open source license, GitHub uses Creative Commons Attribution 4.0 International.
@@ -9,8 +9,8 @@
 
 _Get started using GitHub in less than an hour._
 
-<!-- 
-  <<< Author notes: Start of the course >>> 
+<!--
+  <<< Author notes: Start of the course >>>
   Include start button, a note about Actions minutes,
   and tell the learner why they should take the course.
   Each step should be wrapped in <details>/<summary>, with an `id` set.
@@ -40,8 +40,8 @@ People use GitHub to build some of the most advanced technologies in the world. 
 
 endstep0-->
 
-<!-- 
-  <<< Author notes: Step 1 >>> 
+<!--
+  <<< Author notes: Step 1 >>>
   Choose 3-5 steps for your course.
   The first step is always the hardest, so pick something easy!
   Link to docs.github.com for further explanations.
@@ -51,7 +51,7 @@ endstep0-->
 <details id=1 open>
 <summary><h2>Step 1: Create a branch</h2></summary>
 
-_Welcome to "Introduction to GitHub"! :wave:_
+_Welcome to "Introduction to GitHub" Brian! :wave:_
 
 **What is GitHub?**: GitHub is a collaboration platform that uses [Git](https://docs.github.com/get-started/quickstart/github-glossary#git) for versioning. GitHub is a popular place to share and contribute to [open-source](https://docs.github.com/get-started/quickstart/github-glossary#open-source) software.
 <br>:tv: [Video: What is GitHub?](https://www.youtube.com/watch?v=w3jLJU7DT5E)
@@ -79,7 +79,7 @@ On additional branches, you can make edits without impacting the `main` version.
 
 </details>
 
-<!-- 
+<!--
   <<< Author notes: Step 2 >>>
   Start this step by acknowledging the previous step.
   Define terms and link to docs.github.com.
@@ -96,7 +96,7 @@ Creating a branch allows you to edit your project without changing the `main` br
 
 ### :keyboard: Activity: Your first commit
 
-The following steps will guide you through the process of committing a change on GitHub. Committing a change requires first adding a new file to your new branch. 
+The following steps will guide you through the process of committing a change on GitHub. Committing a change requires first adding a new file to your new branch.
 
 1. On the **Code** tab, make sure you're on your new branch `my-first-branch`.
 2. Select the **Add file** drop-down and click **Create new file**.<br>
@@ -118,8 +118,8 @@ The following steps will guide you through the process of committing a change on
 
 </details>
 
-<!-- 
-  <<< Author notes: Step 3 >>> 
+<!--
+  <<< Author notes: Step 3 >>>
   Just a historic note: the previous version of this step forced the learner
   to write a pull request description,
   checked that `main` was the receiving branch,
@@ -160,8 +160,8 @@ You may have noticed after your commit that a message displayed indicating your 
 
 </details>
 
-<!-- 
-  <<< Author notes: Step 4 >>> 
+<!--
+  <<< Author notes: Step 4 >>>
   Just a historic note: The previous version of this step required responding
   to a pull request review before merging. The previous version also handled
   if users accidentally closed without merging.
@@ -191,8 +191,8 @@ As noted in the previous step, you may have seen evidence of an action running w
 
 </details>
 
-<!-- 
-  <<< Author notes: Finish >>> 
+<!--
+  <<< Author notes: Finish >>>
   Review what we learned, ask for feedback, provide next steps.
 -->
 
