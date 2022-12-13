@@ -9,6 +9,8 @@
 
 _Get started using GitHub in less than an hour._
 
+## This is a change made the to ReadMe.md file.
+
 <!--
   <<< Author notes: Start of the course >>>
   Include start button, a note about Actions minutes,
