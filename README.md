@@ -7,6 +7,8 @@
 
 # Introduction to GitHub
 
+# Hello World of GitHit!
+
 _Get started using GitHub in less than an hour._
 
 ## This is a change made the to ReadMe.md file.
